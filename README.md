@@ -25,7 +25,7 @@ Um portal web informativo desenvolvido durante o curso Técnico em Desenvolvimen
 ### 🚀 Como executar localmente
 1. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/brunossilva12-creator/PaginaWebCuriosidades
    ```
 2. Abra a pasta do projeto e execute o arquivo `index.html` diretamente no seu navegador.
 
@@ -52,7 +52,7 @@ An informative web portal developed during the Systems Development Technical Cou
 ### 🚀 How to run locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/brunossilva12-creator/PaginaWebCuriosidades
    ```
 2. Open the project folder and launch the `index.html` file in your browser.
 
